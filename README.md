@@ -1,7 +1,6 @@
 - 👋 Hi, I’m  Nadya (@toptysh)
 - 👀 I’m interested in  world peace, the latest technologies in the field of robotics and java
-- 🌱 I’m currently lening ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I'm currently studying at PJTK in my first year
 - 📫 How to reach me nadya.kokoreva.2016@mail.ru
 
 <!---
